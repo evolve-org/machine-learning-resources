@@ -18,11 +18,9 @@ The function of a machine learning system can be descriptive, meaning that the s
 
 There are **three subcategories** of machine learning:
 
-**1.Supervised machine learning** models are trained with labeled data sets, which allow the models to learn and grow more accurate over time. For example, an algorithm would be trained with pictures of dogs and other things, all labeled by humans, and the machine would learn ways to identify pictures of dogs on its own. Supervised machine learning is the most common type used today.
-
-**2.Unsupervised machine learning**, a program looks for patterns in unlabeled data. Unsupervised machine learning can find patterns or trends that people aren’t explicitly looking for. For example, an unsupervised machine learning program could look through online sales data and identify different types of clients making purchases.
-
-**3.Reinforcement machine learning** trains machines through trial and error to take the best action by establishing a reward system. Reinforcement learning can train models to play games or train autonomous vehicles to drive by telling the machine when it made the right decisions, which helps it learn over time what actions it should take.
+- **Supervised machine learning** models are trained with labeled data sets, which allow the models to learn and grow more accurate over time. For example, an algorithm would be trained with pictures of dogs and other things, all labeled by humans, and the machine would learn ways to identify pictures of dogs on its own. Supervised machine learning is the most common type used today.
+- **Unsupervised machine learning**, a program looks for patterns in unlabeled data. Unsupervised machine learning can find patterns or trends that people aren’t explicitly looking for. For example, an unsupervised machine learning program could look through online sales data and identify different types of clients making purchases.
+- **Reinforcement machine learning** trains machines through trial and error to take the best action by establishing a reward system. Reinforcement learning can train models to play games or train autonomous vehicles to drive by telling the machine when it made the right decisions, which helps it learn over time what actions it should take.
 
 ![ttmp](https://user-images.githubusercontent.com/88776972/138419794-98aa3a4f-052b-4721-bbba-733b1f75ce29.jpeg)
 
@@ -30,5 +28,5 @@ It takes a strong focus on statistical, mathematical and problem solving skills 
 
 Problem solving approach:
 
-Recommender systems
-Security system
+- Recommender systems
+- Security system
